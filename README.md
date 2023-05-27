@@ -24,7 +24,7 @@ This is a solution to the [QR Code Component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [My solutions page](https://www.frontendmentor.io/profile/Ahmed-NabilWahdan/solutions)
-- Live Site URL: [Live site by GitHub](https://ahmed-nabilwahdan.github.io/Testimonials-Grid-Section/)
+- Live Site URL: [Live site by GitHub](https://ahmed-nabilwahdan.github.io/QR-Code-Component/)
 
 ## My process
 
